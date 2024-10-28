@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+data.py 
+icon.ico
+main.py 
+main.spec
+Wi-Fi Adapter Tester.ifp
