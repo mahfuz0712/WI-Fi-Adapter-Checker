@@ -1,6 +1,7 @@
 __pycache__/
 build/
 dist/
+SetupFiles/
 data.py 
 icon.ico
 main.py 
